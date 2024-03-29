@@ -5,5 +5,10 @@ public class GitTest {
         System.out.println("shao");
         System.out.println("bo");
         System.out.println("厉害");
+        //在idea中进行版本切换，创建分支，混合分支
+        /*将项目推送到github上的远程库中，点击VCS,直接在idea上创建自己的远程库
+        一般远程库名称和自己的本地库名称相同，别名也相同
+        */
+
     }
 }
